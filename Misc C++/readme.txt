@@ -1,0 +1,1 @@
+I have used C++ to solve problems with breadth first search, quick and merge sort, and other miscellaneous recursive algorithms, but I have unfortunately lost those projects.
