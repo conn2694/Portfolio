@@ -1,1 +1,1 @@
-Code of previous game development experiences.
+Code from personal game projects.
