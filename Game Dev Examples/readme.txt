@@ -1,1 +1,1 @@
-Code from personal game projects.
+Code excerpts from personal game projects.
