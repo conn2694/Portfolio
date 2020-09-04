@@ -8,12 +8,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * CS3354 Spring 2019 Review Handler Abstract Class specification
-    @author metsis
-    @author tesic
-    @author wen
- */
 public abstract class AbstractReviewHandler {
 
     public AbstractReviewHandler() {
