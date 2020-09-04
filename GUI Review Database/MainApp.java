@@ -11,10 +11,7 @@ import javax.swing.*;
 import javax.swing.table.*;
 
 
-
-
 /**
-  Main Application for Assignment 3
   @author williams
  */
 
