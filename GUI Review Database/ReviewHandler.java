@@ -13,7 +13,6 @@ import java.text.*;
 
 
 /**
- * CS3354 Spring 2019 Review Handler Class specification
     @author williams
     @author bowers
  */
